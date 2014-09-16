@@ -25,9 +25,6 @@ Here it comes the magic ! It's all fully automatic!
 
 ## How it works
 
+When a message arrives the plugin checks for imap flags that are in a hexadecimal format ( ex: #fff000, #000000 ) and it automatically highlights the message with the colour specified in the imap flag.
 
-
-
-
-
-
+The only thing that is left up to you is to assign imap flags to messages in the correct format ( Hex ).
